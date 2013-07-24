@@ -1,2 +1,2 @@
-mint-guinea-pig
+Mint Guinea Pig
 ===============
